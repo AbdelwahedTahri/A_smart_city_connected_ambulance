@@ -14,9 +14,9 @@ l'infrastructure de la ville, cette ambulance connectée à une ville intelligen
 
 La maquette présente le trajet d'une ambulance, marqué par une ligne noire, qui part du point de départ, traverse le lieu de l'accident et arrive finalement à l'hôpital.
 
-![[Suiveur de ligne connecté/attachements/Map.png]]
+![City Map](attachements/Map.png)
 
-Vous trouverez d'autre informations comme les dimensions de la Map par [ici](MapDimensions.png).
+Vous trouverez d'autre informations comme les dimensions de la Map par [ici](attachements/MapDimensions.png).
 
 ## L'objectif
 

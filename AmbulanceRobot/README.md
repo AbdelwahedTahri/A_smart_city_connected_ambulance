@@ -8,7 +8,7 @@ Le robot envoie des requêtes de types GET pour tous les types d'actions (comme 
 
 Pour formuler une requête HTTP il faut suivre une structure comme suit :
 
-![[Structure requete HTTP.png]]
+![HTTP request](../attachements/Structure_requete_HTTP.png)
 
 ### Le Verbe
 
@@ -81,7 +81,7 @@ void sendRequest(String action, String authID);
 
 Version HTTP + Code de réponse HTTP + Headers + Body
 
-![[Structure reponse HTTP.png]]
+![Structure reponse HTTP.png](../attachements/Structure_requete_HTTP.png)
 
 ### Body
 
